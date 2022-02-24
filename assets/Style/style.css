@@ -66,3 +66,11 @@
 .search-box::placeholder{
     color: #a9a9a9;
 }
+
+.nav-itens a{
+    margin-left: 20px;
+}
+
+.nav-itens a img{
+    width: 30px;
+}
